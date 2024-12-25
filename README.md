@@ -1,1 +1,1 @@
-# lokalya.com
+# lokalya.github.io
